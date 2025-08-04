@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data files
+*.csv
+*.xlsx
+*.html
+products_data.json
+
+# Other projects
+Python3-Spider/
+TaobaoSeleniumSlideHelp/
+
+# Scripts
+*.bat
